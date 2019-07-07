@@ -34,7 +34,7 @@ app.use(express.json());
 //routes
 
 
-app.use('/api/book', require('./routes/book'));
+app.use('/api/books', require('./routes/book'));
 
 //STATICS FILES
 app.use(express.static(path.join(__dirname, 'public')));

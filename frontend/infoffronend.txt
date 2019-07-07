@@ -1,0 +1,4 @@
+webpack convierte nuyestro codigo front end a codigo estandar de html css y js
+y moverlo a otra carpeta en nuestro caso a public
+
+en webpack cofig es donde esta mi archivo principal del frontend desarrollo y donde quiero que lo coloque
